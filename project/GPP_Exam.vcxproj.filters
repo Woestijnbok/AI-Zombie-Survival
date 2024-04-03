@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="Survival Agent Plugin.cpp">
+      <Filter>SurvivalAgentPlugin</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement Behaviours.cpp">
+      <Filter>Movement Behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="FSM Conditions.cpp">
+      <Filter>Decision Making\Finite State Machine\Conditions</Filter>
+    </ClCompile>
+    <ClCompile Include="FSM States.cpp">
+      <Filter>Decision Making\Finite State Machine\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Finite State Machine.cpp">
+      <Filter>Decision Making\Finite State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="Behaviour Tree.cpp">
+      <Filter>Decision Making\Behaviour Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="BT Actions.cpp">
+      <Filter>Decision Making\Behaviour Tree\Actions</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="Survival Agent Plugin.h">
+      <Filter>SurvivalAgentPlugin</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement Behaviours.h">
+      <Filter>Movement Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="FSM Conditions.h">
+      <Filter>Decision Making\Finite State Machine\Conditions</Filter>
+    </ClInclude>
+    <ClInclude Include="FSM States.h">
+      <Filter>Decision Making\Finite State Machine\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Blackboard.h">
+      <Filter>Decision Making</Filter>
+    </ClInclude>
+    <ClInclude Include="Finite State Machine.h">
+      <Filter>Decision Making\Finite State Machine</Filter>
+    </ClInclude>
+    <ClInclude Include="Behaviour Tree.h">
+      <Filter>Decision Making\Behaviour Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="BT Actions.h">
+      <Filter>Decision Making\Behaviour Tree\Actions</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="stdafx">
+      <UniqueIdentifier>{59267a6a-ee49-4a7d-9457-d0c78521d50f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SurvivalAgentPlugin">
+      <UniqueIdentifier>{154e4b48-11d6-41d1-b2f5-b483f5eb41cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Decision Making">
+      <UniqueIdentifier>{120f12ce-9a7e-4ba7-abf3-ce90f6831503}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Movement Behavior">
+      <UniqueIdentifier>{e13d5028-ec87-4ac4-82d9-aa121fbcfb89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Decision Making\Finite State Machine">
+      <UniqueIdentifier>{aeaad00d-424b-4ae9-8c91-3fc7a0fc5f43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Decision Making\Behaviour Tree">
+      <UniqueIdentifier>{e7847b4c-8ed7-4751-9f72-9e2b82322d8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Decision Making\Finite State Machine\Conditions">
+      <UniqueIdentifier>{cdda20d1-778f-494e-91a6-398ca84bdd11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Decision Making\Finite State Machine\States">
+      <UniqueIdentifier>{28ad182d-7998-4710-b08f-c32ab812eb9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Decision Making\Behaviour Tree\Actions">
+      <UniqueIdentifier>{5e99b927-8feb-46bf-b941-7acc97924f06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
